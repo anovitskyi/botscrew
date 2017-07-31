@@ -2,10 +2,10 @@
 REST book library
 
 
--example of adding new book: add {author} "{name}"
+- example of adding new book: add {author} "{name}"
 
--get all: all books
+- get all: all books
 
--updating: edit {name}
+- updating: edit {name}
 
--delete: remove {name}
+- delete: remove {name}
